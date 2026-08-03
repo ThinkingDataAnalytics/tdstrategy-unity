@@ -1,0 +1,16 @@
+{
+    "name": "TDStrategy",
+    "rootNamespace": "",
+    "references": [
+        "TDRemoteConfig"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

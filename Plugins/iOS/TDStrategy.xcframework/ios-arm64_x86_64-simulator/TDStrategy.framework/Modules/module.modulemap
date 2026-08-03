@@ -1,0 +1,6 @@
+framework module TDStrategy {
+  umbrella header "TDStrategy.h"
+  export *
+
+  module * { export * }
+}

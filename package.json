@@ -1,0 +1,24 @@
+{
+    "name": "com.thinkingdata.strategy",
+    "displayName": "TDStrategy",
+    "description": "ThinkingData Strategy Unity SDK",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ThinkingDataAnalytics/tdstrategy-unity"
+    },
+    "version": "1.3.2",
+    "unity": "2018.3",
+    "license": "Apache V2",
+    "author": "ThinkingData",
+    "keywords": [
+        "unity3d",
+        "unity3d-package",
+        "strategy",
+        "thinking",
+        "thinkingdata"
+    ],
+    "category": "Analytics",
+    "dependencies": {
+        "com.thinkingdata.remoteconfig": "https://github.com/ThinkingDataAnalytics/tdremoteconfig-unity.git?path=/Assets#v1.2.2"
+    }
+}
