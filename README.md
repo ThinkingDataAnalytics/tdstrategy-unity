@@ -10,7 +10,7 @@ Requires **TDRemoteConfig 1.2.4** (`com.thinkingdata.remoteconfig`). Unity does 
 {
   "dependencies": {
     "com.thinkingdata.remoteconfig": "https://github.com/ThinkingDataAnalytics/tdremoteconfig-unity.git?path=/Assets#v1.2.4",
-    "com.thinkingdata.strategy": "https://github.com/ThinkingDataAnalytics/tdstrategy-unity.git?path=/Assets#v1.3.3"
+    "com.thinkingdata.strategy": "https://github.com/ThinkingDataAnalytics/tdstrategy-unity.git?path=/Assets#v1.3.4"
   }
 }
 ```
